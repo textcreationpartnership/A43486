@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy, sacred to the memory of the high-born prince, Henry D. of Grafton, who dyed of his wounds at Cork, October 9th, 1690 in Pindarick verse / by Franc. Hext.</title>
+            <author>Hext, Francis, 1666-1729.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43486</idno>
+            <idno type="STC">Wing H1658</idno>
+            <idno type="STC">ESTC R2984</idno>
+            <idno type="EEBO-CITATION">12131314</idno>
+            <idno type="OCLC">ocm 12131314</idno>
+            <idno type="VID">54724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 33:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy, sacred to the memory of the high-born prince, Henry D. of Grafton, who dyed of his wounds at Cork, October 9th, 1690 in Pindarick verse / by Franc. Hext.</title>
+                  <author>Hext, Francis, 1666-1729.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M., and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author erroneously identified by Wing as Francis "Hexter".</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grafton, Henry Fitzroy, --  Duke of, 1663-1690 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54724:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>AN ELEGY.</p>
+            <p>Sacred to the Memory OF THE <hi>High-Born Prince</hi> Henry D. of Grafton, WHO Dyed of his WOUNDS at <hi>Cork, October</hi> 9th. 1690.</p>
+            <p>In <hi>Pindarick Verſe.</hi>
+            </p>
+            <p>By <hi>Franc. Hext.</hi>
+            </p>
+            <q>
+               <bibl>Hom. Iliad.</bibl>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> and are to be Sold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall,</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:54724:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="3" facs="tcp:54724:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>AN ELEGY. Sacred to the Memory OF THE <hi>High-Born Prince</hi> Henry D. of Grafton, &amp;c.</head>
+            <lg n="1">
+               <head>Stanza I.</head>
+               <l>BEgone, ye numerous Sons of <hi>Ptolomy,</hi>
+               </l>
+               <l>Who would th' Effects of Planets know,</l>
+               <l>And all the Secrets, which do flow</l>
+               <l>From the Dark Source of deep Aſtrology:</l>
+               <l>We now do find by woful Conſequence,</l>
+               <l>Ye're but Pretenders to that mighty Art;</l>
+               <l>Since none to us cou'd our Great Loſs impart,</l>
+               <l>By ſome Malignant Stars curſt Influence</l>
+               <l>Bluſh to Confuſion, ſince ye ne're could foreſee</l>
+               <l>That our Great Duke before <hi>Corks</hi> Fatal Walls,</l>
+               <l>By eagre Honour, and Fates Envy drawn,</l>
+               <l>Should to th' Eternal <hi>Iriſh</hi> Jubilee</l>
+               <l>A Sacrifice too pretious Fall:</l>
+               <l>This had ye ſhown,</l>
+               <l>
+                  <pb n="4" facs="tcp:54724:3"/>
+                  <!-- PDF PAGE 15 -->We' had kept him tho' unwilling far,</l>
+               <l>From Wat'ry <hi>Irelands</hi> Ruthful Shoar,</l>
+               <l>And ſo had baffl'd Fate, and his Tyrannick Deſtiny.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Then our Mean Praiſe can no Addition bring</l>
+               <l>To thy true Bullion worth,</l>
+               <l>But rather Cloud, than Blazon forth</l>
+               <l>Thoſe Wonders, which thy Royal Hand has done:</l>
+               <l>Yet 'tis our Duty, now to Moan,</l>
+               <l>And with Reſpectful Awe to come</l>
+               <l>With our officious, tho' unneceſſary Epicedium.</l>
+               <l>Early thy budding Parts were ſhown</l>
+               <l>When thou to <hi>Portugal</hi> was ſent</l>
+               <l>T' Adorn the Nuptials of that King;</l>
+               <l>A Select Cohort with Thee went</l>
+               <l>Your Entrance to Renown, and make your Grandeur known,</l>
+               <l>At the Firſt View confounded ſtood</l>
+               <l>The Royal <hi>Portugueze</hi> to ſee</l>
+               <l>A Mor<gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l ſo much imitate a GOD.</l>
+               <l>In haſt retir'd, himſelf to free</l>
+               <l>From the bright Rayes of Your too dazling Majeſty.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>To <hi>Malta</hi> next his Courſe he bent,</l>
+               <l>And whilſt the <hi>Grafton</hi> cut the Azure Waves,</l>
+               <l>All the Croud of Pyrate Slaves</l>
+               <l>Scudded in haſt t' avoid their certain Fate.</l>
+               <l>Thoſe Chriſtian-Knights of th' Order went</l>
+               <l>For to Congratulate</l>
+               <l>His ſafe Arrival on their Shoar.</l>
+               <l>He t' Oblidge them, Exercis'd his Men</l>
+               <l>With ſuch a Warlike, Haughty Mein,</l>
+               <l>That they aſtoniſh'd ſtood to ſee our Diſcipline,</l>
+               <l>They had before</l>
+               <l>In their <hi>Italian</hi> Authors read</l>
+               <l>
+                  <pb n="5" facs="tcp:54724:3"/>
+                  <!-- PDF PAGE 15 -->What our Great Fore-Fathers did.</l>
+               <l>But they ſuppos'd when they did dye,</l>
+               <l>Our Conqueſts with them hence did fly.</l>
+               <l>But this Great Action did retrieve</l>
+               <l>Our ruin'd Credit from the Grave,</l>
+               <l>And made us ſeem Superiour to the Mighty Dead.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>When <hi>Poteus</hi> Politicians join'd with <hi>Rome,</hi>
+               </l>
+               <l>Contriv'd the Downfal of our Church and Laws;</l>
+               <l>Then fir'd with Zeal for ſuch a Cauſe,</l>
+               <l>Did he his Warlike Garb aſſume</l>
+               <l>As th' <hi>Hercules</hi> that <hi>Hydra</hi> to deſtroy,</l>
+               <l>Who with her Phangs our Faith endeavour'd to Annoy.</l>
+               <l>This they fore-ſaw, and ſent an <hi>Iriſh</hi> Slave,</l>
+               <l>Firſt Born of Hell, t' Aſſaſſinate our Prince,</l>
+               <l>But Heavens kind Influence</l>
+               <l>Did him from that Contingent Danger ſave,</l>
+               <l>And ſent that Villain head-long to the Grave.</l>
+               <l>When the <hi>French</hi> Fleet did ſwagger in our Sea,</l>
+               <l>He boldly ventur'd 'mongſt the Enemy,</l>
+               <l>Whilſt others Fought too nigh the Shoar</l>
+               <l>He grappled with them cloſe, and was himſelf the War.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>As <hi>Marcus Brutus</hi> muſing ſate</l>
+               <l>In his Pavillion, on the War,</l>
+               <l>A dreadful Figure did appear,</l>
+               <l>Which was the <hi>Nuntius</hi> of his coming Fate,</l>
+               <l>He told him on <hi>Philippi</hi>'s Plain</l>
+               <l>He ſhould behold his Form again,</l>
+               <l>But he did Dare the Malice of the Fiend</l>
+               <l>Out of the Tent did the Pale Shadow ſend</l>
+               <l>By his Contracted Brow, and his Imperial Mein.</l>
+               <l>But too well to the Deſtin'd Place he came,</l>
+               <l>And led by Arbitrary Pow'r the <hi>Roman</hi> to <hi>Elyſium.</hi>
+               </l>
+               <l>
+                  <pb n="6" facs="tcp:54724:4"/>
+                  <!-- PDF PAGE 16 -->So when our Duke, a Royal Volunteer,</l>
+               <l>Before <hi>Corks</hi> Walls reſolv'd to be,</l>
+               <l>The King of Terrors did appear,</l>
+               <l>And with him brought all his Artillery,</l>
+               <l>Bombs, Hand-Granadoes, Culverins, Canons, all</l>
+               <l>The Murd'ring Miniſters of Horrid War.</l>
+               <l>Then pointed to the Place, where he ſhould Fall,</l>
+               <l>And where to him a Viſit he would pay,</l>
+               <l>He with a Look Elate, did fright Grim Death away,</l>
+               <l>Whilſt others on their ſupple Knees</l>
+               <l>Fir'd their Charg'd Muskets from afar.</l>
+               <l>He ſtood erect, defying Death, and his Weak Enemies.</l>
+               <l>Death took the Hint, ſecur'd him as his Prize,</l>
+               <l>But he long ſtrove, before he prov'd the Conquerour.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>It is the Practice of too Partial Fate,</l>
+               <l>Immoderate Vertue for to hate,</l>
+               <l>By long Experience ſhe does find,</l>
+               <l>To Lop a Hero, is to Maſſacre Mankind.</l>
+               <l>The Mobile-Souls, whom Nature fram'd in vain,</l>
+               <l>Or onely to fill up her Train,</l>
+               <l>Live till Decrepit Age does come,</l>
+               <l>And carry them to their long Home.</l>
+               <l>But the Wiſe and truly Good,</l>
+               <l>And thoſe, that ſpring from Royal Blood</l>
+               <l>Like early Flowers, are nip't in th' Bud.</l>
+               <l>We could of Vulgar Men great Numbers ſpare,</l>
+               <l>Who Slaves are to that Servile Paſſion, Fear.</l>
+               <l>With theſe we'had gorg'd your Rav'nous Maw</l>
+               <l>As Numberleſs, as Curls upon the Sea,</l>
+               <l>Or as when o're the Lake impending lay</l>
+               <l>The ſcatter'd Seraphim, who dar'd to diſobey</l>
+               <l>Their Great Creator, and their Confuſion downward draw.</l>
+            </lg>
+            <lg n="7">
+               <pb n="7" facs="tcp:54724:4"/>
+               <!-- PDF PAGE 16 -->
+               <head>VII.</head>
+               <l>For <hi>Britains</hi> Glorious Sons of War make Room,</l>
+               <l>Who Pikes and ſhiver'd Lances bring,</l>
+               <l>Who ſhatter'd Colours, Types of Victory</l>
+               <l>Dear-bought from no Inglorious Enemy,</l>
+               <l>And as a pleaſing Offering</l>
+               <l>To their Great <hi>Hector</hi>'s Name, do fix them to his Tomb.</l>
+               <l>You of the Female Sex, that are</l>
+               <l>Moſt Noble, Virtuous, and moſt Fair,</l>
+               <l>(For he was Beauteous, as a Fancyed God)</l>
+               <l>With flowing Eyes draw near,</l>
+               <l>T' aſſiſt the Pious Dutcheſs, whoſe great Load</l>
+               <l>Of Grief ineffable, Her Beauties Cloud.</l>
+               <l>Could Weeping Eyes, or falling Tears,</l>
+               <l>Or a Continual Form of Pray'rs,</l>
+               <l>From the Dark Grave our Hero free,</l>
+               <l>And once more Cloath Him with Mortality;</l>
+               <l>Her Grace ſo well does Heaven move</l>
+               <l>For Her Deareſt, Royal Love,</l>
+               <l>With Her moiſt Tears, and never-ceaſing Cries,</l>
+               <l>That (if 'twere poſſible) He would forſake his Native Skys.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
